@@ -1,0 +1,45 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_Europe_Generic_land_1"
+		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Europe_Generic_land_2"
+		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Europe_Generic_land_3"
+		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Europe_Generic_navy_1"
+		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Europe_Generic_navy_2"
+		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Europe_Generic_navy_3"
+		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_3.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_artem"
+		texturefile = "gfx/leaders/ART/portrait_ART_artem.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_portrait_nusha"
+		texturefile = "gfx/leaders/NUS/portrait_NUS_nusha.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_altai"
+		texturefile = "gfx/leaders/NUS/portrait_NUS_altai.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_barsik"
+		texturefile = "gfx/leaders/NUS/portrait_NUS_barsik.dds"
+	}
+}

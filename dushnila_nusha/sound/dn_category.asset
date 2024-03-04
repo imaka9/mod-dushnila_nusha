@@ -1,0 +1,26 @@
+category = {
+	name = "DN"
+	soundeffects = {
+		dn_boom
+		dn_capitulation
+		dn_citybattle
+		dn_citybattle2
+		dn_citybattle3
+		dn_click
+		dn_heliflying
+		dn_helion
+		dn_nloufo
+		dn_rocket
+		dn_rocketandboom
+		dn_tank
+	}
+	compressor = {
+		enabled = yes
+		pregain = 3.0
+		postgain = 1.0
+		ratio = 2.0
+		threshold = -10.0
+		attacktime = 0.03
+		releasetime = 0.0
+	}
+}

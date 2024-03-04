@@ -1,0 +1,60 @@
+sound = {
+	name = "dn_boom"
+	file = "dn_boom.wav"
+	always_load = yes
+}
+sound = {
+	name = "dn_capitulation"
+	file = "dn_capitulation.wav"
+	always_load = yes
+}
+sound = {
+	name = "dn_citybattle"
+	file = "dn_citybattle.wav"
+	always_load = yes
+}
+sound = {
+	name = "dn_citybattle2"
+	file = "dn_citybattle2.wav"
+	always_load = yes
+}
+sound = {
+	name = "dn_citybattle3"
+	file = "dn_citybattle3.wav"
+	always_load = yes
+}
+sound = {
+	name = "dn_click"
+	file = "dn_click.wav"
+	always_load = yes
+}
+sound = {
+	name = "dn_heliflying"
+	file = "dn_heliflying.wav"
+	always_load = yes
+}
+sound = {
+	name = "dn_helion"
+	file = "dn_helion.wav"
+	always_load = yes
+}
+sound = {
+	name = "dn_nloufo"
+	file = "dn_nloufo.wav"
+	always_load = yes
+}
+sound = {
+	name = "dn_rocket"
+	file = "dn_rocket.wav"
+	always_load = yes
+}
+sound = {
+	name = "dn_rocketandboom"
+	file = "dn_rocketandboom.wav"
+	always_load = yes
+}
+sound = {
+	name = "dn_tank"
+	file = "dn_tank.wav"
+	always_load = yes
+}

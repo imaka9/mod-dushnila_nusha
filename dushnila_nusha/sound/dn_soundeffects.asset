@@ -1,0 +1,84 @@
+soundeffect = {
+	name = dn_boom
+	volume = 1
+	sounds = {
+		sound = dn_boom
+	}
+}
+soundeffect = {
+	name = dn_capitulation
+	volume = 1
+	sounds = {
+		sound = dn_capitulation
+	}
+}
+soundeffect = {
+	name = dn_citybattle
+	volume = 1
+	sounds = {
+		sound = dn_citybattle
+	}
+}
+soundeffect = {
+	name = dn_citybattle2
+	volume = 1
+	sounds = {
+		sound = dn_citybattle2
+	}
+}
+soundeffect = {
+	name = dn_citybattle3
+	volume = 1
+	sounds = {
+		sound = dn_citybattle3
+	}
+}
+soundeffect = {
+	name = dn_click
+	volume = 1
+	sounds = {
+		sound = dn_click
+	}
+}
+soundeffect = {
+	name = dn_heliflying
+	volume = 1
+	sounds = {
+		sound = dn_heliflying
+	}
+}
+soundeffect = {
+	name = dn_helion
+	volume = 1
+	sounds = {
+		sound = dn_helion
+	}
+}
+soundeffect = {
+	name = dn_nloufo
+	volume = 1
+	sounds = {
+		sound = dn_nloufo
+	}
+}
+soundeffect = {
+	name = dn_rocket
+	volume = 1
+	sounds = {
+		sound = dn_rocket
+	}
+}
+soundeffect = {
+	name = dn_rocketandboom
+	volume = 1
+	sounds = {
+		sound = dn_rocketandboom
+	}
+}
+soundeffect = {
+	name = dn_tank
+	volume = 1
+	sounds = {
+		sound = dn_tank
+	}
+}
